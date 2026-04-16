@@ -27,6 +27,7 @@ DistilBERT-Phishing-Mail-Detection/
 │
 ├── phising.ipynb              # Jupyter Notebook containing model training and evaluation
 ├── README.md                  # Project documentation
+├──requirements.txt            # List of dependencies
 ```
 
 ---
